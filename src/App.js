@@ -1,4 +1,4 @@
-import './styles/abstract/reset.scss';
+import './styles/reset.scss';
 
 function App() {
   return (
