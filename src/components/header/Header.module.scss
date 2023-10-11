@@ -1,0 +1,14 @@
+@use "../../styles/variables";
+
+.header {
+    background-color: variables.$dark-blue;
+    width: 100%;
+    height: fit-content;
+    padding: 2vh;
+
+    h1{
+        font-size: 3.5vw;
+        text-align: center;
+        color: variables.$orange;
+    }
+}
