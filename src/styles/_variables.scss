@@ -5,3 +5,13 @@ $dark-blue: #363062;
 $light-blue: #4D4C7D;
 $orange: #F99417;
 $soft-white: #F5F5F5;
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+$font-righteous: 'Righteous', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Rowdies:wght@300&display=swap');
+$font-rowdies: 'Rowdies', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Righteous&family=Rowdies:wght@300&display=swap');
+$font-paytone: 'Paytone One', sans-serif;
